@@ -1,0 +1,15 @@
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\bin\Debug\net8.0\30102024.exe
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\bin\Debug\net8.0\30102024.deps.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\bin\Debug\net8.0\30102024.runtimeconfig.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\bin\Debug\net8.0\30102024.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\bin\Debug\net8.0\30102024.pdb
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.AssemblyInfoInputs.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.AssemblyInfo.cs
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.csproj.CoreCompileInputs.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.sourcelink.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\refint\30102024.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.pdb
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\30102024.genruntimeconfig.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\30102024\30102024\obj\Debug\net8.0\ref\30102024.dll
