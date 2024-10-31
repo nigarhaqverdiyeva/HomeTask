@@ -1,0 +1,15 @@
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.AssemblyInfoInputs.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.AssemblyInfo.cs
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.csproj.CoreCompileInputs.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.sourcelink.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\bin\Debug\net8.0\31102024 home task.exe
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\bin\Debug\net8.0\31102024 home task.deps.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\bin\Debug\net8.0\31102024 home task.runtimeconfig.json
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\bin\Debug\net8.0\31102024 home task.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\bin\Debug\net8.0\31102024 home task.pdb
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\refint\31102024 home task.dll
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.pdb
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\31102024 home task.genruntimeconfig.cache
+C:\Users\haqve\OneDrive\Desktop\AB108(HOME)\31102024 home task\31102024 home task\obj\Debug\net8.0\ref\31102024 home task.dll
